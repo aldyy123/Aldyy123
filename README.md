@@ -6,6 +6,18 @@ I'm a learning programmer from **Lintasarta DigiSchool 2020 X Dicoding Indonesia
 Now I'm currently studying in the Backend Developer.
 
 
+# About Me
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+![Ardyy github stats](https://github-readme-stats.vercel.app/api?username=Aldyy123&show_icons=true&hide_border=true&theme=algolia)&nbsp;&nbsp;
+![Ardyy Top Languange](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aldyy123&layout=compact&langs_count=8&hide_border=true&theme=algolia)
 
 <!--
 **A dyy123/Aldyy123** is a ✨ _special_ ✨ reposissssssssssssssssssssssssssssssssssssssss appears on your GitHub profilzsxsdsdsd dsf sdf🧡🧡🧡🧡s
