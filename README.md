@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hi, I'm  Mohammad Ardi Trisnaldi, a Fullstack Web Developer 
+
+I'm ❤ programming from little, just learning when Vocational and focus to Programmer. Graduated school in SMK AL Irsyad Tegal, majoring Computer and Network Engineering.
+
+I'm a learning programmer from **Lintasarta DigiSchool 2020 X Dicoding Indonesia** in learning path Frontend Web Developer.
+Now I'm currently studying in the Backend Developer.
+
+
 
 <!--
-**Aldyy123/Aldyy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**A dyy123/Aldyy123** is a ✨ _special_ ✨ reposissssssssssssssssssssssssssssssssssssssss appears on your GitHub profilzsxsdsdsd dsf sdf🧡🧡🧡🧡s
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
