@@ -1,9 +1,9 @@
 # Hi, I'm  Mohammad Ardi Trisnaldi, a Frontend Web Developer 
 
-I'm ❤ programming from little, just learning when Vocational and focus to Programmer. Graduated school in SMK AL Irsyad Tegal, majoring Computer and Network Engineering.
+<!-- I'm ❤ programming from little, just learning when Vocational and focus to Programmer. Graduated school in SMK AL Irsyad Tegal, majoring Computer and Network Engineering.
 
 I'm a learning programmer from **Lintasarta DigiSchool 2020 X Dicoding Indonesia** in learning path Frontend Web Developer.
-Now I'm currently studying in the Backend Developer.
+Now I'm currently studying in the Backend Developer. -->
 
 
 # About Me
