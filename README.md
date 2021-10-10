@@ -1,4 +1,4 @@
-# Hi, I'm  Mohammad Ardi Trisnaldi, a Fullstack Web Developer 
+# Hi, I'm  Mohammad Ardi Trisnaldi, a Frontend Web Developer 
 
 I'm ❤ programming from little, just learning when Vocational and focus to Programmer. Graduated school in SMK AL Irsyad Tegal, majoring Computer and Network Engineering.
 
