@@ -1,12 +1,22 @@
-# Hi, I'm  Mohammad Ardi Trisnaldi
+## <p align="center">Hi 👋, I'm  Mohammad Ardi Trisnaldi</p>
 
-<!-- I'm ❤ programming from little, just learning when Vocational and focus to Programmer. Graduated school in SMK AL Irsyad Tegal, majoring Computer and Network Engineering.
+![](https://img.shields.io/github/watchers/aldyy123/aldyy123?style=social)
 
-I'm a learning programmer from **Lintasarta DigiSchool 2020 X Dicoding Indonesia** in learning path Frontend Web Developer.
-Now I'm currently studying in the Backend Developer. -->
+### About Me
 
+My favorite programming language is Javascript
 
-# About Me
+- 🏫 I'm collage student at Universitas Bina Sarana Informatika 
+- 🔭 I’m currently working as Freelance
+- 🌱 I’m currently learning React and Laravel
+
+---
+
+### Connect With Me
+
+- [Linkedin : Mohammad Ardi Trisnaldi](https://www.linkedin.com/in/mohammad-ardi-trisnaldi/)
+- [Instagram : Aldyy](https://www.instagram.com/aldyy231/)
+
 
 ### Languages
 
