@@ -8,7 +8,7 @@ My favorite programming language is Javascript
 
 - 🏫 I'm collage student at Universitas Bina Sarana Informatika 
 - 🔭 I’m currently working as Freelance Developer
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning Typescript and NestJs
 
 ---
 
