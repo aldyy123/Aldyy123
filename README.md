@@ -15,7 +15,7 @@ My favorite programming language is Javascript
 
 - [Linkedin : Mohammad Ardi Trisnaldi](https://www.linkedin.com/in/mohammad-ardi-trisnaldi/)
 - [Instagram : Aldyy](https://www.instagram.com/aldyy231/)
--->>
+-->
 
 ### Languages
 
