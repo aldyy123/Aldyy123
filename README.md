@@ -1,4 +1,4 @@
-## <p align="center">Hi 👋, I'm  Mohammad Ardi Trisnaldi</p>
+## <p align="center">Hi 👋, I'm  Aldyy</p>
 
 ![](https://img.shields.io/github/watchers/aldyy123/aldyy123?style=social)
 
