@@ -6,8 +6,7 @@
 
 My favorite programming language is Javascript
 
-- 🔭 I’m currently working as Freelance Developer
-- 🌱 I’m currently learning Typescript and NestJs
+- 🔭 I’m currently working as Software Engineer
 
 ---
 <!--
