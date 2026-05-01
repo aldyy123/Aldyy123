@@ -40,6 +40,32 @@ I build web, mobile, and backend systems — from clean frontends to scalable AP
 
 ---
 
+## Coding Activity
+
+<!--START_SECTION:waka-->
+<!-- Wakatime stats will appear here automatically after setup -->
+<!--END_SECTION:waka-->
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aldyy123&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Recent GitHub activity will appear here automatically after setup -->
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aldyy123&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
