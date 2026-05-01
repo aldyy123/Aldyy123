@@ -42,8 +42,6 @@ I build web, mobile, and backend systems — from clean frontends to scalable AP
 
 <div align="center">
 
-![Ardi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldyy123&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyy123&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aldyy123&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
