@@ -12,10 +12,7 @@
 
 ---
 
-I build web, mobile, and backend systems — from clean frontends to scalable APIs. I enjoy working across the full stack and integrating AI tools into how I develop.
-
 - 🛠 Working with **React, Next.js, Node.js, Laravel, Golang**
-- ☁️ Comfortable on **Google Cloud** and building with **microservices**
 - 🤖 Exploring **AI agents and generative AI** in software development
 - 📍 Based in Indonesia · Open to remote opportunities
 
@@ -40,13 +37,6 @@ I build web, mobile, and backend systems — from clean frontends to scalable AP
 
 ---
 
-## Coding Activity
-
-<!--START_SECTION:waka-->
-<!-- Wakatime stats will appear here automatically after setup -->
-<!--END_SECTION:waka-->
-
----
 
 ## Contribution Graph
 
@@ -55,14 +45,6 @@ I build web, mobile, and backend systems — from clean frontends to scalable AP
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aldyy123&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Recent GitHub activity will appear here automatically after setup -->
-<!--END_SECTION:activity-->
 
 ---
 
