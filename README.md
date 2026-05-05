@@ -13,7 +13,8 @@
 ---
 
 - 🛠 Working with **React, Next.js, Node.js, Laravel, Golang**
-- 🤖 Exploring **AI agents and generative AI** in software development
+- 🤖 Exploring **AI agents, Machine Learning, and generative AI**
+- 💻 Curious about new technology
 - 📍 Based in Indonesia · Open to remote opportunities
 
 ---
